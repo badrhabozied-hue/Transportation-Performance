@@ -54,7 +54,7 @@ The goal of this project is to analyze transportation-related data and build a d
 ---
 
 ## 📷 Dashboard Preview
-<img src="Transportation Performance Dashboard">
+<img src="Transportation Performance Dashboard.png">
 
 ---
 
